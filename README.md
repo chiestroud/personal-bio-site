@@ -1,1 +1,1 @@
-# This is Chie Stroud's Personal Bio Site
+# Chie Stroud's Personal Bio Site
